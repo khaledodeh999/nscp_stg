@@ -34,6 +34,12 @@
             "required": false
         },
         {
+            "title": "Background Location",
+            "name": "android.permission.ACCESS_BACKGROUND_LOCATION",
+            "platform": "android",
+            "required": false
+        },
+        {
             "title": "Location - When In Use Usage",
             "name": "NSLocationWhenInUseUsageDescription",
             "purpose": "To use that feature, the app needs access to your location.",
@@ -141,8 +147,8 @@
             "enabled": false
         }
     },
-    "appVersion": "1.0.2",
-    "buildNumber": 149,
+    "appVersion": "1.0.6",
+    "buildNumber": 154,
     "runtimeUrl": "https://stg.tajawob.om/",
     "hermesEnabled": true,
     "cookieEncryptionEnabled": false
