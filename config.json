@@ -147,8 +147,8 @@
             "enabled": false
         }
     },
-    "appVersion": "1.0.9",
-    "buildNumber": 157,
+    "appVersion": "1.1.0",
+    "buildNumber": 158,
     "runtimeUrl": "https://stg.tajawob.om/",
     "hermesEnabled": true,
     "cookieEncryptionEnabled": false
